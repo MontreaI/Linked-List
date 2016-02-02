@@ -1,5 +1,7 @@
 # Linked List
 
+**Feel free to use it for reference or even your assigments (with care of course).**
+
 ## Description
 
 In this repository I have included the entire source code of a fully working linked list implemented in C.
